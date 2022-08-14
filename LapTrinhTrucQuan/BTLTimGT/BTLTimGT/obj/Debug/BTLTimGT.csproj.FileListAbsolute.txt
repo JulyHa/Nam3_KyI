@@ -1,0 +1,20 @@
+C:\Users\Huy Ha\Desktop\BTLTimGT\BTLTimGT\bin\Debug\BTLTimGT.exe.config
+C:\Users\Huy Ha\Desktop\BTLTimGT\BTLTimGT\bin\Debug\BTLTimGT.exe
+C:\Users\Huy Ha\Desktop\BTLTimGT\BTLTimGT\bin\Debug\BTLTimGT.pdb
+C:\Users\Huy Ha\Desktop\BTLTimGT\BTLTimGT\obj\Debug\BTLTimGT.csproj.AssemblyReference.cache
+C:\Users\Huy Ha\Desktop\BTLTimGT\BTLTimGT\obj\Debug\BTLTimGT.Form1.resources
+C:\Users\Huy Ha\Desktop\BTLTimGT\BTLTimGT\obj\Debug\BTLTimGT.Properties.Resources.resources
+C:\Users\Huy Ha\Desktop\BTLTimGT\BTLTimGT\obj\Debug\BTLTimGT.csproj.GenerateResource.cache
+C:\Users\Huy Ha\Desktop\BTLTimGT\BTLTimGT\obj\Debug\BTLTimGT.csproj.CoreCompileInputs.cache
+C:\Users\Huy Ha\Desktop\BTLTimGT\BTLTimGT\obj\Debug\BTLTimGT.exe
+C:\Users\Huy Ha\Desktop\BTLTimGT\BTLTimGT\obj\Debug\BTLTimGT.pdb
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTLTimGT\BTLTimGT\bin\Debug\BTLTimGT.exe.config
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTLTimGT\BTLTimGT\bin\Debug\BTLTimGT.exe
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTLTimGT\BTLTimGT\bin\Debug\BTLTimGT.pdb
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTLTimGT\BTLTimGT\obj\Debug\BTLTimGT.csproj.AssemblyReference.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTLTimGT\BTLTimGT\obj\Debug\BTLTimGT.Form1.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTLTimGT\BTLTimGT\obj\Debug\BTLTimGT.Properties.Resources.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTLTimGT\BTLTimGT\obj\Debug\BTLTimGT.csproj.GenerateResource.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTLTimGT\BTLTimGT\obj\Debug\BTLTimGT.csproj.CoreCompileInputs.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTLTimGT\BTLTimGT\obj\Debug\BTLTimGT.exe
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTLTimGT\BTLTimGT\obj\Debug\BTLTimGT.pdb

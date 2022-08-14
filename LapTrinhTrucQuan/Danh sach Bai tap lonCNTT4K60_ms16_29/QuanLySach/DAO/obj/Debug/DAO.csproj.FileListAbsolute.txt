@@ -1,0 +1,3 @@
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\DAO\obj\Debug\DAO.Properties.Resources.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache

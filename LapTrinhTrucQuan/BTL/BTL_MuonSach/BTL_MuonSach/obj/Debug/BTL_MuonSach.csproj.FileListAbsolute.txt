@@ -1,0 +1,11 @@
+D:\DESKTOP\năm 3\lập trình trực quan\BTL\BTL_MuonSach\BTL_MuonSach\bin\Debug\BTL_MuonSach.exe.config
+D:\DESKTOP\năm 3\lập trình trực quan\BTL\BTL_MuonSach\BTL_MuonSach\bin\Debug\BTL_MuonSach.exe
+D:\DESKTOP\năm 3\lập trình trực quan\BTL\BTL_MuonSach\BTL_MuonSach\bin\Debug\BTL_MuonSach.pdb
+D:\DESKTOP\năm 3\lập trình trực quan\BTL\BTL_MuonSach\BTL_MuonSach\obj\Debug\BTL_MuonSach.csproj.AssemblyReference.cache
+D:\DESKTOP\năm 3\lập trình trực quan\BTL\BTL_MuonSach\BTL_MuonSach\obj\Debug\BTL_MuonSach.Form1.resources
+D:\DESKTOP\năm 3\lập trình trực quan\BTL\BTL_MuonSach\BTL_MuonSach\obj\Debug\BTL_MuonSach.FormPhieuMuon.resources
+D:\DESKTOP\năm 3\lập trình trực quan\BTL\BTL_MuonSach\BTL_MuonSach\obj\Debug\BTL_MuonSach.Properties.Resources.resources
+D:\DESKTOP\năm 3\lập trình trực quan\BTL\BTL_MuonSach\BTL_MuonSach\obj\Debug\BTL_MuonSach.csproj.GenerateResource.cache
+D:\DESKTOP\năm 3\lập trình trực quan\BTL\BTL_MuonSach\BTL_MuonSach\obj\Debug\BTL_MuonSach.csproj.CoreCompileInputs.cache
+D:\DESKTOP\năm 3\lập trình trực quan\BTL\BTL_MuonSach\BTL_MuonSach\obj\Debug\BTL_MuonSach.exe
+D:\DESKTOP\năm 3\lập trình trực quan\BTL\BTL_MuonSach\BTL_MuonSach\obj\Debug\BTL_MuonSach.pdb

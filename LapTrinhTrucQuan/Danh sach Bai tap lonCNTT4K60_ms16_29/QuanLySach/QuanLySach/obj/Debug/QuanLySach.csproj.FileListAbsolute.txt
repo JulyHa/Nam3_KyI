@@ -1,0 +1,13 @@
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe.config
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\QuanLySach\bin\Debug\QuanLySach.pdb
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.AssemblyReference.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Properties.Resources.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.GenerateResource.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Sach.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\QuanLySach\obj\Debug\QuanLySach.View.Login.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\QuanLySach\obj\Debug\QuanLySach.QLSach.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\QuanLySach\obj\Debug\QuanLySach.View.SignIn.resources

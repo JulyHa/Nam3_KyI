@@ -1,0 +1,48 @@
+Câu 1: Phân tích hệ thống là làm gì-Chia làm mấy giai đoạn
+=> Là giai đoạn phát triển trong 1 dự án, tập trung vào các vấn đề nghiệp vụ,
+các thủ tục sử lý giao diện, đọc lập với kỹ thuật có thể dùng để cài đặt các giải pháp trong vấn đề đó
+=> 5 giai đoạn: 
++ Xác định phạm vi(gồm 5 bước nhỏ)
++ Phân tích vấn đề(gồm 6 bước nhỏ)
++ Phân tích yêu cầu(gồm 3 bước nhỏ)
++ Mô hình hóa lôgic(gồm 2 bước nhỏ)
++ Giai đoạn phân tích quyết định(gồm 5 bước nhỏ
+(Phân tích tính khả thi:về kỹ thuật,về hoạt động, về kinh tế và về lịch biểu))
+
+Câu 2: Thế nào là 1 bản thiết kế tốt
+- Đầu tiên đáp ứng được các yêu cầu mà một hệ thống cần có
+- Phải dễ đọc, dễ hiểu, dễ lập trình và sửa chữa
+
+Câu 3: Phần tích quyết định bao gồm những hoạt động gì:
+Gồm: +Phân tích tính khả thi về kỹ thuật
++Phân tích tính khả thi về hoạt động
++Phân tích tính khả thi về kinh tế
++Phân tích tính khả thi về lịch biểu
++Phân tích rủi ro
+
+Câu 4:Thiết kế bao gồm những công việc gì
++Thiết kế csdl:
+	- Thiết kế csdl logic(gồm: thiết kế các biểu mẫu, các báo cáo; 
+		thiết kế các giao diện và đối thoại; thiết kế csdl logic chuẩn về csdl)
+	- Thiết kế csdl vật lý(gồm : Thiết kế file vật lý và CSDL;
+		thiết kế hệ thống và cấu trúc chương trình;
+		thiết kế chiến lược xử lý phân tán)
++Thiết kế tiến trình(thiết kế hệ thống):
+	- Xây dựng biểu đồ luồn hệ thống
+	- Thiết kế các thành phần hệ thống
+	- Thiết kế kiến trúc của hệ thống
++Thiết kế giao diện người dùng
++Thiết kế an toàn và bảo mật hệ thống
+
+Câu 5:Để quyết định... căn cứ vào những tiêu chí nào
+
+Câu 6:Thiết kế hệ thống gồm những gì:
++ Xây dựng biểu đồ luồn hệ thống
++ Thiết kế các thành phần hệ thống
++ Thiết kế kiến trúc của hệ thống
+Câu 7:Giai đoạn phân tích hệ thống bao gồm mấy giai đoạn: 5 giai đoạn
++Xác định phạm vi
++Phân tích vấn đề
++Phân tích yêu cầu
++Mô hình hóa logic
++Phân tích quyết định

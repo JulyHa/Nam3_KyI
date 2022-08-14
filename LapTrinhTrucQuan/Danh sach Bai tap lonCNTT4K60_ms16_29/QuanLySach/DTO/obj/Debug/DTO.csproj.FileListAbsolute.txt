@@ -1,0 +1,4 @@
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache

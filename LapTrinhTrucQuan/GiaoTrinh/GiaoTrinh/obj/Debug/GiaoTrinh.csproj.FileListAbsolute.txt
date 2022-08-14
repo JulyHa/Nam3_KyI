@@ -1,0 +1,145 @@
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.csproj.AssemblyReference.cache
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.Form1.resources
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.Properties.Resources.resources
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.reportGiaoTrinh.resources
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.csproj.GenerateResource.cache
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\obj\Debug\RdlCompile.cache
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\obj\Debug\RdlCompile.compiled
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.csproj.CoreCompileInputs.cache
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\GiaoTrinh.exe.config
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\GiaoTrinh.exe
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\GiaoTrinh.pdb
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\EnvDTE.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\stdole.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.csproj.CopyComplete
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.exe
+C:\Users\Huy Ha\Desktop\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.pdb
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\GiaoTrinh.exe.config
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\GiaoTrinh.exe
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\GiaoTrinh.pdb
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\EnvDTE.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\stdole.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\Microsoft.MSXML.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Downloads\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.csproj.AssemblyReference.cache
+E:\Downloads\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.Properties.Resources.resources
+E:\Downloads\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.reportGiaoTrinh.resources
+E:\Downloads\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.csproj.GenerateResource.cache
+E:\Downloads\GiaoTrinh\GiaoTrinh\obj\Debug\RdlCompile.cache
+E:\Downloads\GiaoTrinh\GiaoTrinh\obj\Debug\RdlCompile.compiled
+E:\Downloads\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.csproj.CoreCompileInputs.cache
+E:\Downloads\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.csproj.CopyComplete
+E:\Downloads\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.exe
+E:\Downloads\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.pdb
+E:\Downloads\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.frmGiaoTrinh.resources
+E:\Downloads\GiaoTrinh\GiaoTrinh\bin\Debug\mauInGiaoTrinh.rdlc

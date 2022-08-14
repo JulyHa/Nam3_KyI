@@ -1,0 +1,10 @@
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ChuaChoTrang\ChuaChoTrang\bin\Debug\ChuaChoTrang.exe.config
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ChuaChoTrang\ChuaChoTrang\bin\Debug\ChuaChoTrang.exe
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ChuaChoTrang\ChuaChoTrang\bin\Debug\ChuaChoTrang.pdb
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ChuaChoTrang\ChuaChoTrang\obj\Debug\ChuaChoTrang.csproj.AssemblyReference.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ChuaChoTrang\ChuaChoTrang\obj\Debug\ChuaChoTrang.Form1.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ChuaChoTrang\ChuaChoTrang\obj\Debug\ChuaChoTrang.Properties.Resources.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ChuaChoTrang\ChuaChoTrang\obj\Debug\ChuaChoTrang.csproj.GenerateResource.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ChuaChoTrang\ChuaChoTrang\obj\Debug\ChuaChoTrang.csproj.CoreCompileInputs.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ChuaChoTrang\ChuaChoTrang\obj\Debug\ChuaChoTrang.exe
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\ChuaChoTrang\ChuaChoTrang\obj\Debug\ChuaChoTrang.pdb

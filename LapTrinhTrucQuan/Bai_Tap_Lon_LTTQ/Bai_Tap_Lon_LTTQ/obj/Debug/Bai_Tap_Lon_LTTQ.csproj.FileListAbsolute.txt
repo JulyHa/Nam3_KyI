@@ -1,0 +1,10 @@
+D:\New folder\Bai_Tap_Lon_LTTQ\Bai_Tap_Lon_LTTQ\bin\Debug\Bai_Tap_Lon_LTTQ.exe.config
+D:\New folder\Bai_Tap_Lon_LTTQ\Bai_Tap_Lon_LTTQ\bin\Debug\Bai_Tap_Lon_LTTQ.exe
+D:\New folder\Bai_Tap_Lon_LTTQ\Bai_Tap_Lon_LTTQ\bin\Debug\Bai_Tap_Lon_LTTQ.pdb
+D:\New folder\Bai_Tap_Lon_LTTQ\Bai_Tap_Lon_LTTQ\obj\Debug\Bai_Tap_Lon_LTTQ.csproj.AssemblyReference.cache
+D:\New folder\Bai_Tap_Lon_LTTQ\Bai_Tap_Lon_LTTQ\obj\Debug\Bai_Tap_Lon_LTTQ.TraSach.resources
+D:\New folder\Bai_Tap_Lon_LTTQ\Bai_Tap_Lon_LTTQ\obj\Debug\Bai_Tap_Lon_LTTQ.Properties.Resources.resources
+D:\New folder\Bai_Tap_Lon_LTTQ\Bai_Tap_Lon_LTTQ\obj\Debug\Bai_Tap_Lon_LTTQ.csproj.GenerateResource.cache
+D:\New folder\Bai_Tap_Lon_LTTQ\Bai_Tap_Lon_LTTQ\obj\Debug\Bai_Tap_Lon_LTTQ.csproj.CoreCompileInputs.cache
+D:\New folder\Bai_Tap_Lon_LTTQ\Bai_Tap_Lon_LTTQ\obj\Debug\Bai_Tap_Lon_LTTQ.exe
+D:\New folder\Bai_Tap_Lon_LTTQ\Bai_Tap_Lon_LTTQ\obj\Debug\Bai_Tap_Lon_LTTQ.pdb

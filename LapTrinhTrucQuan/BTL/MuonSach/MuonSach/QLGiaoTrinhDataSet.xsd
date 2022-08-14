@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="QLGiaoTrinhDataSet" targetNamespace="http://tempuri.org/QLGiaoTrinhDataSet.xsd" xmlns:mstns="http://tempuri.org/QLGiaoTrinhDataSet.xsd" xmlns="http://tempuri.org/QLGiaoTrinhDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLGiaoTrinhConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLGiaoTrinhConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.MuonSach.Properties.Settings.GlobalReference.Default.QLGiaoTrinhConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="PhieuMuonTableAdapter" GeneratorDataComponentClassName="PhieuMuonTableAdapter" Name="PhieuMuon" UserDataComponentName="PhieuMuonTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLGiaoTrinhConnectionString (Settings)" DbObjectName="QLGiaoTrinh.dbo.PhieuMuon" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MaPhieu, MaDocGia, MaGT, NgayMuon, NgayPhaiTra, TrinhTrangMuon FROM dbo.PhieuMuon</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MaPhieu" DataSetColumn="MaPhieu" />
+              <Mapping SourceColumn="MaDocGia" DataSetColumn="MaDocGia" />
+              <Mapping SourceColumn="MaGT" DataSetColumn="MaGT" />
+              <Mapping SourceColumn="NgayMuon" DataSetColumn="NgayMuon" />
+              <Mapping SourceColumn="NgayPhaiTra" DataSetColumn="NgayPhaiTra" />
+              <Mapping SourceColumn="TrinhTrangMuon" DataSetColumn="TrinhTrangMuon" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="QLGiaoTrinhDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="QLGiaoTrinhDataSet" msprop:Generator_UserDSName="QLGiaoTrinhDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PhieuMuon" msprop:Generator_TableClassName="PhieuMuonDataTable" msprop:Generator_TableVarName="tablePhieuMuon" msprop:Generator_TablePropName="PhieuMuon" msprop:Generator_RowDeletingName="PhieuMuonRowDeleting" msprop:Generator_RowChangingName="PhieuMuonRowChanging" msprop:Generator_RowEvHandlerName="PhieuMuonRowChangeEventHandler" msprop:Generator_RowDeletedName="PhieuMuonRowDeleted" msprop:Generator_UserTableName="PhieuMuon" msprop:Generator_RowChangedName="PhieuMuonRowChanged" msprop:Generator_RowEvArgName="PhieuMuonRowChangeEvent" msprop:Generator_RowClassName="PhieuMuonRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaPhieu" msprop:Generator_ColumnVarNameInTable="columnMaPhieu" msprop:Generator_ColumnPropNameInRow="MaPhieu" msprop:Generator_ColumnPropNameInTable="MaPhieuColumn" msprop:Generator_UserColumnName="MaPhieu" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MaDocGia" msprop:Generator_ColumnVarNameInTable="columnMaDocGia" msprop:Generator_ColumnPropNameInRow="MaDocGia" msprop:Generator_ColumnPropNameInTable="MaDocGiaColumn" msprop:Generator_UserColumnName="MaDocGia" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MaGT" msprop:Generator_ColumnVarNameInTable="columnMaGT" msprop:Generator_ColumnPropNameInRow="MaGT" msprop:Generator_ColumnPropNameInTable="MaGTColumn" msprop:Generator_UserColumnName="MaGT">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NgayMuon" msprop:Generator_ColumnVarNameInTable="columnNgayMuon" msprop:Generator_ColumnPropNameInRow="NgayMuon" msprop:Generator_ColumnPropNameInTable="NgayMuonColumn" msprop:Generator_UserColumnName="NgayMuon" type="xs:dateTime" />
+              <xs:element name="NgayPhaiTra" msprop:Generator_ColumnVarNameInTable="columnNgayPhaiTra" msprop:Generator_ColumnPropNameInRow="NgayPhaiTra" msprop:Generator_ColumnPropNameInTable="NgayPhaiTraColumn" msprop:Generator_UserColumnName="NgayPhaiTra" type="xs:dateTime" />
+              <xs:element name="TrinhTrangMuon" msprop:Generator_ColumnVarNameInTable="columnTrinhTrangMuon" msprop:Generator_ColumnPropNameInRow="TrinhTrangMuon" msprop:Generator_ColumnPropNameInTable="TrinhTrangMuonColumn" msprop:Generator_UserColumnName="TrinhTrangMuon">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{36527667-D615-4BF4-A98F-1F9FEFCF3379}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BTL_QuanLySach</RootNamespace>
+    <AssemblyName>BTL_QuanLySach</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_Main.Designer.cs">
+      <DependentUpon>GUI_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RePassWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RePassWord.Designer.cs">
+      <DependentUpon>RePassWord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignIn.Designer.cs">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TruyVanSQL.cs" />
+    <Compile Include="User.cs" />
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_Main.resx">
+      <DependentUpon>GUI_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RePassWord.resx">
+      <DependentUpon>RePassWord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignIn.resx">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_book_reading_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_contacts_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_book_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_user_group_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Logout_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_ebook_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_male_user_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_secure_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_horizontal_line_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_shutdown_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_google_books_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_50px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_customer_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_lock_50px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_unlock_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_eye_50px_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_hide_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_advice_32px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_ebook_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_books_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_copybook_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_audit_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_sign_out_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_password_reset_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Bai_Tap_Lon_LTTQ\Bai_Tap_Lon_LTTQ\TraGiaoTrinh.csproj">
+      <Project>{223FCA08-9909-409D-AB67-1757D7A1EAC1}</Project>
+      <Name>TraGiaoTrinh</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\BTL\BTL_MuonSach\BTL_MuonSach\MuonSach.csproj">
+      <Project>{5A1709E0-9450-4796-9516-3D4C40E968A6}</Project>
+      <Name>MuonSach</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\mượn\mượn\Muon.csproj">
+      <Project>{EF019E82-FE0E-4D36-B3A1-AFFFA7706533}</Project>
+      <Name>Muon</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ThuThu\ThuThu\ThuThu.csproj">
+      <Project>{55DE27F1-BC26-4A7C-AD89-26278CEB2C2C}</Project>
+      <Name>ThuThu</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GiaoTrinh\GiaoTrinh.csproj">
+      <Project>{A90F8951-5329-4615-AF38-684B3200E19E}</Project>
+      <Name>GiaoTrinh</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_remove_key_24px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,3 @@
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\BUS\obj\Debug\BUS.Properties.Resources.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\Danh sach Bai tap lonCNTT4K60_ms16_29\QuanLySach\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache

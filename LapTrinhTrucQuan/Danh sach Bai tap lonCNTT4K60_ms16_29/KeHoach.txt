@@ -1,0 +1,21 @@
+- Đăng nhập, đăng ký
+- Mượn sách:
+	+ Chỉ mượn < 3 quyển
+	+ Không bị khóa thẻ
+	+ SL gt mượn > 0
+- Trả sách:Kiểm tra vi phạm ngày nộp
+	+ nếu == null => khóa thẻ 
+	+ nếu != null => mở thẻ
+- Tìm kiếm GT:
+	+ Theo tên
+	+ Theo tác giả
+	+ Theo chuyên ngành
+- Tìm kiếm Thủ thư:
+	+ Theo tên
+	+ Theo mã hồ sơ thủ thư đã nhận trả sách
+- Xuất báo cáo
+	+ Theo quý được chọn
+	+ Theo thẻ được mượn đã chọn trước
+	+ Theo GT đang được mượn mà chưa trả
+
+	

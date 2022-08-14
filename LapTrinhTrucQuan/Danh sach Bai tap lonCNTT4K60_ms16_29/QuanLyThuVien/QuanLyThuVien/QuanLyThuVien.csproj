@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{45C120EE-646B-4B78-AF6B-659778F694E7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QuanLyThuVien</RootNamespace>
+    <AssemblyName>QuanLyThuVien</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=11.0.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.BonusSkins.v14.2, Version=14.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\DevExpress 14.2\Components\Bin\Framework\DevExpress.BonusSkins.v14.2.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.Data.v14.2, Version=14.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v14.2.Core, Version=14.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v14.2, Version=14.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v14.2, Version=14.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v14.2, Version=14.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v14.2, Version=14.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v14.2, Version=14.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v14.2, Version=14.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v14.2, Version=14.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BUS\DangMuon_BUS.cs" />
+    <Compile Include="BUS\DaTra_BUS.cs" />
+    <Compile Include="BUS\LichSuMuon_BUS.cs" />
+    <Compile Include="BUS\MatKhau_BUS.cs" />
+    <Compile Include="BUS\SachDangMuon_BUS.cs" />
+    <Compile Include="BUS\ThanhVien_BUS.cs" />
+    <Compile Include="DAO\DangMuon_DAO.cs" />
+    <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="DAO\DaTra_DAO.cs" />
+    <Compile Include="DAO\LichSuMuon_DAO.cs" />
+    <Compile Include="DAO\MatKhau_DAO.cs" />
+    <Compile Include="DAO\SachDangMuon_DAO.cs" />
+    <Compile Include="DAO\ThanhVien_DAO.cs" />
+    <Compile Include="DTO\DocGia.cs" />
+    <Compile Include="BUS\DocGia_BUS.cs" />
+    <Compile Include="DAO\DocGia_DAO.cs" />
+    <Compile Include="DTO\ThanhVien.cs" />
+    <Compile Include="GUI\fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\fLogin.Designer.cs">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DTO\PhieuMuon.cs" />
+    <Compile Include="BUS\PhieuMuon_BUS.cs" />
+    <Compile Include="DAO\PhieuMuon_DAO.cs" />
+    <Compile Include="DTO\PhieuTra.cs" />
+    <Compile Include="BUS\PhieuTra_BUS.cs" />
+    <Compile Include="DAO\PhieuTra_DAO.cs" />
+    <Compile Include="DTO\Sach.cs" />
+    <Compile Include="BUS\Sach_BUS.cs" />
+    <Compile Include="DAO\Sach_DAO.cs" />
+    <Compile Include="GUI\ucFrmQLPhieuMuon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\ucFrmQLPhieuMuon.Designer.cs">
+      <DependentUpon>ucFrmQLPhieuMuon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ucFrmQLPhieuTra.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\ucFrmQLPhieuTra.Designer.cs">
+      <DependentUpon>ucFrmQLPhieuTra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ucFrmQLThanhVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\ucFrmQLThanhVien.Designer.cs">
+      <DependentUpon>ucFrmQLThanhVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\fTableManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\fTableManage.Designer.cs">
+      <DependentUpon>fTableManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GUI\ucFrmQLSach.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\ucFrmQLSach.Designer.cs">
+      <DependentUpon>ucFrmQLSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ucFrmTimKiemSach.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\ucFrmTimKiemSach.Designer.cs">
+      <DependentUpon>ucFrmTimKiemSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ucFrmDoiMatKhau.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\ucFrmDoiMatKhau.Designer.cs">
+      <DependentUpon>ucFrmDoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ucFrmSachDangMuon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\ucFrmSachDangMuon.Designer.cs">
+      <DependentUpon>ucFrmSachDangMuon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ucFrmLichSuMuon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\ucFrmLichSuMuon.Designer.cs">
+      <DependentUpon>ucFrmLichSuMuon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ucFrmThanhVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\ucFrmThanhVien.Designer.cs">
+      <DependentUpon>ucFrmThanhVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucFrmDangMuon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucFrmDangMuon.Designer.cs">
+      <DependentUpon>ucFrmDangMuon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucFrmDaTra.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucFrmDaTra.Designer.cs">
+      <DependentUpon>ucFrmDaTra.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="GUI\fLogin.resx">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="GUI\ucFrmQLPhieuMuon.resx">
+      <DependentUpon>ucFrmQLPhieuMuon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ucFrmQLPhieuTra.resx">
+      <DependentUpon>ucFrmQLPhieuTra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ucFrmQLThanhVien.resx">
+      <DependentUpon>ucFrmQLThanhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fTableManage.resx">
+      <DependentUpon>fTableManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="GUI\ucFrmQLSach.resx">
+      <DependentUpon>ucFrmQLSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ucFrmTimKiemSach.resx">
+      <DependentUpon>ucFrmTimKiemSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ucFrmDoiMatKhau.resx">
+      <DependentUpon>ucFrmDoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ucFrmSachDangMuon.resx">
+      <DependentUpon>ucFrmSachDangMuon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ucFrmLichSuMuon.resx">
+      <DependentUpon>ucFrmLichSuMuon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ucFrmThanhVien.resx">
+      <DependentUpon>ucFrmThanhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucFrmDangMuon.resx">
+      <DependentUpon>ucFrmDangMuon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucFrmDaTra.resx">
+      <DependentUpon>ucFrmDaTra.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ICon\user-info-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ICon\Books-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ICon\policy-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ICon\user.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ICon\MuonSach.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ICon\Search-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ICon\Search-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconlogout.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_book-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrow.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webicons_RPL2-05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_group_man_people_users_male-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-icon--16121-large[1].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register_log_in_user_login_session_authorize_open_account_access_key-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_access-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\child.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book_Library-256_400x400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

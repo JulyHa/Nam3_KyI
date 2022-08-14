@@ -1,0 +1,19 @@
+D:\DESKTOP\năm 3\Học Lập trình C#\QLMuonSach\QLMuonSach\obj\Debug\QLMuonSach.csproj.AssemblyReference.cache
+D:\DESKTOP\năm 3\Học Lập trình C#\QLMuonSach\QLMuonSach\obj\Debug\QLMuonSach.Properties.Resources.resources
+D:\DESKTOP\năm 3\Học Lập trình C#\QLMuonSach\QLMuonSach\obj\Debug\QLMuonSach.UserControl1.resources
+D:\DESKTOP\năm 3\Học Lập trình C#\QLMuonSach\QLMuonSach\obj\Debug\QLMuonSach.UserControl2.resources
+D:\DESKTOP\năm 3\Học Lập trình C#\QLMuonSach\QLMuonSach\obj\Debug\QLMuonSach.csproj.GenerateResource.cache
+D:\DESKTOP\năm 3\Học Lập trình C#\QLMuonSach\QLMuonSach\obj\Debug\QLMuonSach.csproj.CoreCompileInputs.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL\QLMuonSach\QLMuonSach\bin\Debug\QLMuonSach.exe.config
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL\QLMuonSach\QLMuonSach\bin\Debug\QLMuonSach.exe
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL\QLMuonSach\QLMuonSach\bin\Debug\QLMuonSach.pdb
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL\QLMuonSach\QLMuonSach\obj\Debug\QLMuonSach.csproj.AssemblyReference.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL\QLMuonSach\QLMuonSach\obj\Debug\QLMuonSach.Properties.Resources.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL\QLMuonSach\QLMuonSach\obj\Debug\QLMuonSach.UserControl1.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL\QLMuonSach\QLMuonSach\obj\Debug\QLMuonSach.UserControl2.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL\QLMuonSach\QLMuonSach\obj\Debug\QLMuonSach.csproj.GenerateResource.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL\QLMuonSach\QLMuonSach\obj\Debug\RdlCompile.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL\QLMuonSach\QLMuonSach\obj\Debug\RdlCompile.compiled
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL\QLMuonSach\QLMuonSach\obj\Debug\QLMuonSach.csproj.CoreCompileInputs.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL\QLMuonSach\QLMuonSach\obj\Debug\QLMuonSach.exe
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL\QLMuonSach\QLMuonSach\obj\Debug\QLMuonSach.pdb

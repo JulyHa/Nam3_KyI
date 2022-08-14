@@ -1,0 +1,10 @@
+E:\Documents\Nam3_Ky_1\LapTrinhTrucQuan\BaiTapLon\TimKiemThuThu\TimKiemThuThu\obj\Debug\TimKiemThuThu.csproj.AssemblyReference.cache
+E:\Documents\Nam3_Ky_1\LapTrinhTrucQuan\BaiTapLon\TimKiemThuThu\TimKiemThuThu\obj\Debug\TimKiemThuThu.Properties.Resources.resources
+E:\Documents\Nam3_Ky_1\LapTrinhTrucQuan\BaiTapLon\TimKiemThuThu\TimKiemThuThu\obj\Debug\TimKiemThuThu.TKThuThu.resources
+E:\Documents\Nam3_Ky_1\LapTrinhTrucQuan\BaiTapLon\TimKiemThuThu\TimKiemThuThu\obj\Debug\TimKiemThuThu.csproj.GenerateResource.cache
+E:\Documents\Nam3_Ky_1\LapTrinhTrucQuan\BaiTapLon\TimKiemThuThu\TimKiemThuThu\obj\Debug\TimKiemThuThu.csproj.CoreCompileInputs.cache
+E:\Documents\Nam3_Ky_1\LapTrinhTrucQuan\BaiTapLon\TimKiemThuThu\TimKiemThuThu\bin\Debug\TimKiemThuThu.exe.config
+E:\Documents\Nam3_Ky_1\LapTrinhTrucQuan\BaiTapLon\TimKiemThuThu\TimKiemThuThu\bin\Debug\TimKiemThuThu.exe
+E:\Documents\Nam3_Ky_1\LapTrinhTrucQuan\BaiTapLon\TimKiemThuThu\TimKiemThuThu\bin\Debug\TimKiemThuThu.pdb
+E:\Documents\Nam3_Ky_1\LapTrinhTrucQuan\BaiTapLon\TimKiemThuThu\TimKiemThuThu\obj\Debug\TimKiemThuThu.exe
+E:\Documents\Nam3_Ky_1\LapTrinhTrucQuan\BaiTapLon\TimKiemThuThu\TimKiemThuThu\obj\Debug\TimKiemThuThu.pdb

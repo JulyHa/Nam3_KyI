@@ -1,0 +1,12 @@
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL_QuanLySach\BTL_QuanLySach\bin\Debug\BTL_QuanLySach.exe.config
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL_QuanLySach\BTL_QuanLySach\bin\Debug\BTL_QuanLySach.exe
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL_QuanLySach\BTL_QuanLySach\bin\Debug\BTL_QuanLySach.pdb
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL_QuanLySach\BTL_QuanLySach\obj\Debug\BTL_QuanLySach.csproj.AssemblyReference.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL_QuanLySach\BTL_QuanLySach\obj\Debug\BTL_QuanLySach.Form1.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL_QuanLySach\BTL_QuanLySach\obj\Debug\BTL_QuanLySach.Properties.Resources.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL_QuanLySach\BTL_QuanLySach\obj\Debug\BTL_QuanLySach.csproj.GenerateResource.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL_QuanLySach\BTL_QuanLySach\obj\Debug\BTL_QuanLySach.csproj.CoreCompileInputs.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL_QuanLySach\BTL_QuanLySach\obj\Debug\BTL_QuanLySach.exe
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL_QuanLySach\BTL_QuanLySach\obj\Debug\BTL_QuanLySach.pdb
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL_QuanLySach\BTL_QuanLySach\bin\Debug\Guna.UI2.dll
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\BTL_QuanLySach\BTL_QuanLySach\obj\Debug\BTL_QuanLySach.csproj.CopyComplete

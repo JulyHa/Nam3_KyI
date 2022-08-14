@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataLTTQDataSet" targetNamespace="http://tempuri.org/DataLTTQDataSet.xsd" xmlns:mstns="http://tempuri.org/DataLTTQDataSet.xsd" xmlns="http://tempuri.org/DataLTTQDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DataLTTQConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DataLTTQConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.GiaoTrinh.Properties.Settings.GlobalReference.Default.DataLTTQConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ViewGTTableAdapter" GeneratorDataComponentClassName="ViewGTTableAdapter" Name="ViewGT" UserDataComponentName="ViewGTTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DataLTTQConnectionString (Settings)" DbObjectName="DataLTTQ.dbo.ViewGT" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MaGT, TenGT, TenTG, NamXB, LanTB, TenChuyenNganh, SoTrang, SoLuongGT, TomTatNoiDung FROM dbo.ViewGT</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MaGT" DataSetColumn="MaGT" />
+              <Mapping SourceColumn="TenGT" DataSetColumn="TenGT" />
+              <Mapping SourceColumn="TenTG" DataSetColumn="TenTG" />
+              <Mapping SourceColumn="NamXB" DataSetColumn="NamXB" />
+              <Mapping SourceColumn="LanTB" DataSetColumn="LanTB" />
+              <Mapping SourceColumn="TenChuyenNganh" DataSetColumn="TenChuyenNganh" />
+              <Mapping SourceColumn="SoTrang" DataSetColumn="SoTrang" />
+              <Mapping SourceColumn="SoLuongGT" DataSetColumn="SoLuongGT" />
+              <Mapping SourceColumn="TomTatNoiDung" DataSetColumn="TomTatNoiDung" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataLTTQDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="DataLTTQDataSet" msprop:Generator_UserDSName="DataLTTQDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ViewGT" msprop:Generator_TableClassName="ViewGTDataTable" msprop:Generator_TableVarName="tableViewGT" msprop:Generator_TablePropName="ViewGT" msprop:Generator_RowDeletingName="ViewGTRowDeleting" msprop:Generator_RowChangingName="ViewGTRowChanging" msprop:Generator_RowEvHandlerName="ViewGTRowChangeEventHandler" msprop:Generator_RowDeletedName="ViewGTRowDeleted" msprop:Generator_UserTableName="ViewGT" msprop:Generator_RowChangedName="ViewGTRowChanged" msprop:Generator_RowEvArgName="ViewGTRowChangeEvent" msprop:Generator_RowClassName="ViewGTRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaGT" msprop:Generator_ColumnVarNameInTable="columnMaGT" msprop:Generator_ColumnPropNameInRow="MaGT" msprop:Generator_ColumnPropNameInTable="MaGTColumn" msprop:Generator_UserColumnName="MaGT">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TenGT" msprop:Generator_ColumnVarNameInTable="columnTenGT" msprop:Generator_ColumnPropNameInRow="TenGT" msprop:Generator_ColumnPropNameInTable="TenGTColumn" msprop:Generator_UserColumnName="TenGT">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TenTG" msprop:Generator_ColumnVarNameInTable="columnTenTG" msprop:Generator_ColumnPropNameInRow="TenTG" msprop:Generator_ColumnPropNameInTable="TenTGColumn" msprop:Generator_UserColumnName="TenTG">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NamXB" msprop:Generator_ColumnVarNameInTable="columnNamXB" msprop:Generator_ColumnPropNameInRow="NamXB" msprop:Generator_ColumnPropNameInTable="NamXBColumn" msprop:Generator_UserColumnName="NamXB" type="xs:int" minOccurs="0" />
+              <xs:element name="LanTB" msprop:Generator_ColumnVarNameInTable="columnLanTB" msprop:Generator_ColumnPropNameInRow="LanTB" msprop:Generator_ColumnPropNameInTable="LanTBColumn" msprop:Generator_UserColumnName="LanTB" type="xs:int" minOccurs="0" />
+              <xs:element name="TenChuyenNganh" msprop:Generator_ColumnVarNameInTable="columnTenChuyenNganh" msprop:Generator_ColumnPropNameInRow="TenChuyenNganh" msprop:Generator_ColumnPropNameInTable="TenChuyenNganhColumn" msprop:Generator_UserColumnName="TenChuyenNganh" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SoTrang" msprop:Generator_ColumnVarNameInTable="columnSoTrang" msprop:Generator_ColumnPropNameInRow="SoTrang" msprop:Generator_ColumnPropNameInTable="SoTrangColumn" msprop:Generator_UserColumnName="SoTrang" type="xs:int" minOccurs="0" />
+              <xs:element name="SoLuongGT" msprop:Generator_ColumnVarNameInTable="columnSoLuongGT" msprop:Generator_ColumnPropNameInRow="SoLuongGT" msprop:Generator_ColumnPropNameInTable="SoLuongGTColumn" msprop:Generator_UserColumnName="SoLuongGT" type="xs:int" minOccurs="0" />
+              <xs:element name="TomTatNoiDung" msprop:Generator_ColumnVarNameInTable="columnTomTatNoiDung" msprop:Generator_ColumnPropNameInRow="TomTatNoiDung" msprop:Generator_ColumnPropNameInTable="TomTatNoiDungColumn" msprop:Generator_UserColumnName="TomTatNoiDung" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:ViewGT" />
+      <xs:field xpath="mstns:MaGT" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

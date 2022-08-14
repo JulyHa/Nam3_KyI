@@ -1,0 +1,11 @@
+D:\DESKTOP\năm 3\Học Lập trình C#\MuonSach\MuonSach\bin\Debug\MuonSach.exe.config
+D:\DESKTOP\năm 3\Học Lập trình C#\MuonSach\MuonSach\bin\Debug\MuonSach.exe
+D:\DESKTOP\năm 3\Học Lập trình C#\MuonSach\MuonSach\bin\Debug\MuonSach.pdb
+D:\DESKTOP\năm 3\Học Lập trình C#\MuonSach\MuonSach\obj\Debug\MuonSach.csproj.AssemblyReference.cache
+D:\DESKTOP\năm 3\Học Lập trình C#\MuonSach\MuonSach\obj\Debug\MuonSach.Form1.resources
+D:\DESKTOP\năm 3\Học Lập trình C#\MuonSach\MuonSach\obj\Debug\MuonSach.FormPhieuMuon.resources
+D:\DESKTOP\năm 3\Học Lập trình C#\MuonSach\MuonSach\obj\Debug\MuonSach.Properties.Resources.resources
+D:\DESKTOP\năm 3\Học Lập trình C#\MuonSach\MuonSach\obj\Debug\MuonSach.csproj.GenerateResource.cache
+D:\DESKTOP\năm 3\Học Lập trình C#\MuonSach\MuonSach\obj\Debug\MuonSach.csproj.CoreCompileInputs.cache
+D:\DESKTOP\năm 3\Học Lập trình C#\MuonSach\MuonSach\obj\Debug\MuonSach.exe
+D:\DESKTOP\năm 3\Học Lập trình C#\MuonSach\MuonSach\obj\Debug\MuonSach.pdb

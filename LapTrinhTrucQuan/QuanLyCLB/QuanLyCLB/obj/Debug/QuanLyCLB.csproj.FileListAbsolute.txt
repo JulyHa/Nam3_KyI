@@ -1,0 +1,12 @@
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\QuanLyCLB\QuanLyCLB\bin\Debug\Database1.mdf
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\QuanLyCLB\QuanLyCLB\bin\Debug\Database1_log.ldf
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\QuanLyCLB\QuanLyCLB\bin\Debug\QuanLyCLB.exe.config
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\QuanLyCLB\QuanLyCLB\bin\Debug\QuanLyCLB.exe
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\QuanLyCLB\QuanLyCLB\bin\Debug\QuanLyCLB.pdb
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\QuanLyCLB\QuanLyCLB\obj\Debug\QuanLyCLB.csproj.AssemblyReference.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\QuanLyCLB\QuanLyCLB\obj\Debug\QuanLyCLB.Form1.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\QuanLyCLB\QuanLyCLB\obj\Debug\QuanLyCLB.Properties.Resources.resources
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\QuanLyCLB\QuanLyCLB\obj\Debug\QuanLyCLB.csproj.GenerateResource.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\QuanLyCLB\QuanLyCLB\obj\Debug\QuanLyCLB.csproj.CoreCompileInputs.cache
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\QuanLyCLB\QuanLyCLB\obj\Debug\QuanLyCLB.exe
+D:\Uyen\Tonghop\TrenLop_Class\Nam3\Ky_I\LapTrinhTrucQuan\QuanLyCLB\QuanLyCLB\obj\Debug\QuanLyCLB.pdb
